@@ -19,7 +19,7 @@ public:
         add("Far Far West", {"Shooter", "Action" });
         add("Minecraft" , {"Adventure", "sandbox"});
         add("Portal 2" , {"Puzzle", "Adventure"});
-        add("Hollow Knight", {})
+        add("Hollow Knight", {"Action", "Adventure"})
 
     }
 private: 
